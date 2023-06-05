@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=techdanny&label=Profile%20views&color=0e75b6&style=flat" alt="techdanny" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@_musauu" target="blank"><img src="https://img.shields.io/twitter/follow/@_musauu?logo=twitter&style=for-the-badge" alt="@_musauu" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@_musauu" target="blank"><img src="https://img.shields.io/twitter/follow/_musauu?logo=twitter&style=for-the-badge" alt="@_musauu" /></a> </p>
 
 - 🔭 I’m currently working on **Shell Project**
 
