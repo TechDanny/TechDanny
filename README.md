@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/@_musauu" target="blank"><img src="https://img.shields.io/twitter/follow/_musauu?logo=twitter&style=for-the-badge" alt="@_musauu" /></a> </p>
 
-- 🔭 I’m currently working on **Shell Project**
+- 🔭 I’m currently working on **Portfolio Project**
 
 - 🌱 I’m currently learning **Python**
 
